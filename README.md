@@ -19,4 +19,3 @@ http://localhost:8080/login.html
 
 dev branch
 
-bugfix-1 branch
